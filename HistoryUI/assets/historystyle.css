@@ -1,0 +1,53 @@
+body {
+    background-color:  #343434;
+    color: white;
+    font-family: arial;
+}
+
+.container-fluid {
+    background-color: #726c6c;
+    padding: 20px;
+    border-radius: 60px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 30px auto; /* Added auto margin for horizontal centering */
+}
+
+h1 {
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+.roomOptions {
+    margin-bottom: 10px;
+    color: black;
+}
+
+.timeOptions {
+    margin-bottom: 10px;
+    color: black;
+    margin-top: 10px;
+}
+
+.optionsBar {
+    background-color: black;
+    color: white;
+}
+
+.graph {
+    float: left;
+    width: 100%;
+    height: auto;
+}
+
+.button {
+    background-color: grey;
+    font-size: large;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 150px;
+    border-style: none;
+    
+}

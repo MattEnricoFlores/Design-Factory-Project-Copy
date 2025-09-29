@@ -1,0 +1,9 @@
+data.json
+__pycache__
+HistoricData1Month.json
+HistoricData1Week.json
+HistoricData1Year.json
+HistoricData6Months.json
+HistoricData24Hours.json
+api_routes.py
+courier_key.py
